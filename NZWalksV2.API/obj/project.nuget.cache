@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qb4ttFJuF6E=",
+  "dgSpecHash": "MCyMqUlsQ+k=",
   "success": true,
-  "projectFilePath": "F:\\Documents\\Projects\\Tutorials\\dotnet\\NZWalksV2\\NZWalksV2.API\\NZWalksV2.API.csproj",
+  "projectFilePath": "/Users/benaventi/Documents/Tutorials/BuildASP.NETCoreWebAPI/NZWalksV2/NZWalksV2.API/NZWalksV2.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\benav\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
-    "C:\\Users\\benav\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "/Users/benaventi/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/benaventi/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
